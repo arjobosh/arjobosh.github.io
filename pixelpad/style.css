@@ -1,0 +1,22 @@
+body {
+  background-color: #F7F3B5;
+}
+
+h1 {
+  margin: auto;
+  width: 40%;
+  text-align: center;
+}
+
+#options-container {
+  margin: auto;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+}
+
+.options {
+  width: 120px;
+  margin: 10px;
+
+}

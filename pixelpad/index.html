@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>pixelpad</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+    <h1>pixelpad</h1>
+    <div id="options-container">
+      <button class="options "type="button" name="button" id="set-squares">
+        set pixel size
+      </button>
+      <br>
+      <select class="options" id="color-select">
+        <option value="" selected="selected">select pen color</option>
+        <option value="black">black</option>
+        <option value="red">red</option>
+        <option value="green">green</option>
+        <option value="blue">blue</option>
+      </select>
+      <br>
+      <button class="options "type="button" name="button" id="reset">
+        reset grid
+      </button>
+    </div>
+
+    <div id="grid" class="container"></div>
+  </body>
+
+  <script src="sketchpad_js.js"></script>
+</html>
