@@ -2,4 +2,4 @@
 
 This repository contains various web implementations using HTML, CSS, and JavaScript.
 
-Visit arjobosh.github.io/<page-name> to view.
+Visit arjobosh.github.io/[directory] to view.
