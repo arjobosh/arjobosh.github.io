@@ -1,7 +1,7 @@
 const h1 = document.querySelector('h1');
 h1.style.fontFamily = 'helvetica';
 h1.style.fontStyle = 'oblique';
-h1.style.margin = 'auto';
+h1.style.margin = '30px auto 0px auto';
 h1.style.textAlign = 'center';
 
 const body = document.querySelector('body');
@@ -15,7 +15,7 @@ const main = document.querySelector('.main');
 main.style.display = 'flex';
 main.style.flexDirection = 'column';
 main.style.margin = '30px auto 30px auto';
-main.style.width = '60%';
+main.style.width = '50%';
 
 const h2 = document.getElementsByTagName('h2');
 for(i = 0; i < h2.length; i++) {
