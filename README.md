@@ -1,5 +1,5 @@
 # arjobosh.github.io
 
-This repository contains various projects using HTML, CSS, and JavaScript, which follow from The Odin Project's Web Development 101 course.
+This repository contains various projects using HTML, CSS, and JavaScript, which follow from The Odin Project's Full Stack JavaScript course.
 
-Joshua Arber
+by Joshua Arber
