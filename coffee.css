@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body, p, header, span, a,
+h1, h2, h3, h4, h5, h6, ul, li {
+    margin: 0;
+    padding: 0;
+    font: 16px 'Helvetica Neue', Helvetica, sans-serif;
+    list-style: none;
+}
+
+a:link, a:visited,
+a:hover, a:active {
+    text-decoration: none;
+    color: black;
+}
+
+/***/
+
+.nav, .main {
+    width: 60vw;
+    margin: 0 auto;
+}
+
+.nav ul li a {
+    font-size: 1.3em;
+}
+
+.main {
+    background-color: aliceblue;
+    min-height: 310px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: lightblue;
+    height: 8vh;
+}
+
+.tab {
+    margin: 0 20px;
+    display: inline-block;
+    background-color: lightblue;
+    height: 1.7em;
+    width: 7em;
+    text-align: center;
+}
+
+.tab:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.item-card {
+    width: 50vw;
+    max-height: 100px;
+    margin: 20px auto;
+    border-top: 1px solid lightgray;
+}
+
+.item-card > * {
+    margin: 2px 0;
+}
