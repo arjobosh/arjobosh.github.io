@@ -1,0 +1,27 @@
+{
+  "name": "Maker's Mark Manhattan",
+  "description": "",
+  "liquids": [
+    {
+      "name": "Maker's Mark Bourbon",
+      "ounces": 2
+    },
+    {
+      "name": "Sweet Vermouth",
+      "ounces": 1
+    }
+  ],
+  "dashes": [
+    {
+      "type": "bitter",
+      "amount": 2
+    }
+  ],
+  "garnishes": [
+    {
+      "name": "cherry",
+      "amount": 1
+    }
+  ],
+  "container": "glass"
+}

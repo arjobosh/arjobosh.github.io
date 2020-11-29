@@ -1,0 +1,23 @@
+{
+  "name": "Tanqueray & Tonic",
+  "description": "",
+  "liquids": [
+    {
+      "name": "Tanqueray Gin",
+      "ounces": 1
+    },
+    {
+      "name": "Tonic Water",
+      "ounces": 0
+    }
+  ],
+  "dashes": [
+  ],
+  "garnishes": [
+    {
+      "name": "lime",
+      "amount": 1
+    }
+  ],
+  "container": "glass"
+}

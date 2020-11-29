@@ -1,0 +1,27 @@
+{
+  "name": "Tito's Dirty Martini",
+  "description": "",
+  "liquids": [
+    {
+      "name": "Tito's Vodka",
+      "ounces": 2
+    },
+    {
+      "name": "Dry Vermouth",
+      "ounces": 0.75
+    },
+    {
+      "name": "Olive Juice",
+      "ounces": 2
+    }
+  ],
+  "dashes": [
+  ],
+  "garnishes": [
+    {
+      "name": "olive",
+      "amount": 2
+    }
+  ],
+  "container": "glass"
+}

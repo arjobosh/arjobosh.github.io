@@ -1,0 +1,23 @@
+{
+  "name": "Grey Goose & Soda",
+  "description": "",
+  "liquids": [
+    {
+      "name": "Grey Goose",
+      "ounces": 1
+    },
+    {
+      "name": "Club Soda",
+      "ounces": 0
+    }
+  ],
+  "dashes": [
+  ],
+  "garnishes": [
+    {
+      "name": "lime",
+      "amount": 1
+    }
+  ],
+  "container": "glass"
+}
